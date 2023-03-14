@@ -15,3 +15,6 @@ I am eager to take on new challenges and contribute to projects that make a mean
 ## Let's Connect
 
 If you're interested in connecting with me or learning more about my work, feel free to check out my GitHub profile and reach out to me. I would love to hear from you!
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ezitounioussama&theme=dark&border_radius=50)](https://git.io/streak-stats)
