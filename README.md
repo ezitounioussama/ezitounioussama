@@ -46,8 +46,8 @@ If you're interested in connecting with me or learning more about my work, feel 
  </br>
  </br>
  </br>
- <div align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=ezitounioussama&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ezitounioussama&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 
