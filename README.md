@@ -14,8 +14,8 @@ I am eager to take on new challenges and contribute to projects that make a mean
 
 ## Let's Connect
 
-If you're interested in connecting with me or learning more about my work, feel free to check out my GitHub profile and reach out to me. I would love to hear from you!
-
+If you're interested in connecting with me or learning more about my work, feel free to check out my GitHub profile or my Linkedin and reach out to me. I would love to hear from you!
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/oussama-ezitouni-794771204/) <br/><br/>
 </br>
 </br>
 
@@ -41,7 +41,7 @@ If you're interested in connecting with me or learning more about my work, feel 
 
 ## Let's Connect
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/oussama-ezitouni-794771204/) <br/><br/>
+
 
 
 
