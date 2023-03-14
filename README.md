@@ -16,7 +16,8 @@ I am eager to take on new challenges and contribute to projects that make a mean
 
 If you're interested in connecting with me or learning more about my work, feel free to check out my GitHub profile and reach out to me. I would love to hear from you!
 
-##🏻 Languages & Tools
+
+## Languages & Tools
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
