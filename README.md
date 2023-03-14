@@ -40,8 +40,6 @@ If you're interested in connecting with me or learning more about my work, feel 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="30" height="30"/>
 </p>
 
- </br>
- </br>
 
 
 [![Ezitouni GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ezitounioussama&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)](https://github.com/ezitounioussama/ezitounioussama#gh-dark-mode-only)
