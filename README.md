@@ -39,8 +39,11 @@ If you're interested in connecting with me or learning more about my work, feel 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="30" height="30"/>
 </p>
 
+## Let's Connect
+
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/oussama-ezitouni-794771204/) <br/><br/>
 
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ezitounioussama&theme=dark&border_radius=50)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ezitounioussama&theme=dark&border_radius=50)](https://git.io/streak-stats) -->
