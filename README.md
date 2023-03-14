@@ -20,9 +20,9 @@ If you're interested in connecting with me or learning more about my work, feel 
 </br>
 </br>
 
-
-## Languages & Tools
 <img align="right" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="320" />
+## Languages & Tools
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
