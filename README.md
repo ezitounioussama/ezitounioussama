@@ -16,6 +16,10 @@ I am eager to take on new challenges and contribute to projects that make a mean
 
 If you're interested in connecting with me or learning more about my work, feel free to check out my GitHub profile and reach out to me. I would love to hear from you!
 
+</br>
+</br>
+</br>
+</br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="320" />
 
