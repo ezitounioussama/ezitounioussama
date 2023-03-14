@@ -22,7 +22,7 @@ If you're interested in connecting with me or learning more about my work, feel 
 
 
 ## Languages & Tools
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="320" />
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
@@ -40,7 +40,7 @@ If you're interested in connecting with me or learning more about my work, feel 
 </p>
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="320" />
+
 [![Ezitouni GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ezitounioussama&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)](https://github.com/ezitounioussama/ezitounioussama#gh-dark-mode-only)
 [![Ezitouni GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ezitounioussama&show_icons=true&theme=default&icon_color=57a8ff&hide_border=true&card_width=400#gh-light-mode-only)](https://github.com/ezitounioussama/ezitounioussama#gh-light-mode-only)
  </br>
