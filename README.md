@@ -22,7 +22,7 @@ If you're interested in connecting with me or learning more about my work, feel 
 </br>
 </br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="335" />
 
 ## 💻 Languages & Tools
 
@@ -64,6 +64,8 @@ If you're interested in connecting with me or learning more about my work, feel 
 </div>
 
 <div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezitounioussama)
+
 </div>
 
