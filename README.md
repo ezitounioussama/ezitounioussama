@@ -63,7 +63,7 @@ If you're interested in connecting with me or learning more about my work, feel 
 
 </div>
 
-
-
-
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezitounioussama)
+</div>
 
