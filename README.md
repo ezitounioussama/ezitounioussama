@@ -57,7 +57,7 @@ If you're interested in connecting with me or learning more about my work, feel 
 </div>
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ezitounioussama&column=4&margin-w=8&margin-h=6)
+![](https://github-profile-trophy.vercel.app/?username=ezitounioussama&column=7&margin-w=8&margin-h=6)
 
 </div>
 
