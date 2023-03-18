@@ -118,9 +118,19 @@
   </p>
 </details>
 
+
+
+
+
 <details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
-
+  
+  <h3>🔥 Check out Oussama's awesome Dev Card on Daily.dev</h3>
+  
+  <a href="https://app.daily.dev/ezitounioussama"><img src="https://api.daily.dev/devcards/67a43f71989b47f0bb1ed0023150006d.png?r=syp" width="250" alt="Oussama's Dev Card"/></a>
+  
+ 
+  
   <h3>🔥 Streak Stats</h3>
 
 
