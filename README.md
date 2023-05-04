@@ -27,10 +27,11 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ezitounioussama?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/ezitounioussama?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ezitounioussama?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a align="center"> <img src="https://komarev.com/ghpvc/?username=elmachhoune&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=person-add" alt="ezitouni" /> </a>
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elmachhoune&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=person-add" alt="ezitouni" /> </p>
+
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
