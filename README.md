@@ -30,6 +30,7 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elmachhoune&label=Profile%20views&color=0e75b6&style=flat" alt="elmachhoune" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ezitounioussama&label=Profile%20views&color=0e75b6&style=flat" alt="elmachhoune" /> </p>
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
