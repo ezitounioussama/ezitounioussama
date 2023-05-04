@@ -28,7 +28,7 @@
   <a href="https://github.com/ezitounioussama?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ezitounioussama?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elmachhoune&label=Profile%20views&&labelColor=1155ba&style=flat" alt="ezitouni" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elmachhoune&label=Profile%20views&&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="ezitouni" /> </p>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ezitounioussama&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="ezitouni" /> </p> -->
 
 <details open> 
