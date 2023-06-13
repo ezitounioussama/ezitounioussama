@@ -36,7 +36,7 @@
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/ezitounioussama/Next.js-Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ezitounioussama&repo="Next.js-Portfolio"&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="NextJS-Portofolio"></a>
+    <a href="https://github.com/ezitounioussama/Next.js-Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ezitounioussama&repo=portofolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="NextJS-Portofolio"></a>
     <a href="https://github.com/ezitounioussama/portofolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ezitounioussama&repo=portofolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="Portofolio"></a>
     <a href="https://github.com/ezitounioussama/web-app-kanap"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ezitounioussama&repo=web-app-kanap&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="web-app-kanap"></a>
     <a href="https://github.com/ezitounioussama/puzzleGame"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=ezitounioussama&repo=puzzleGame&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="puzzleGame"></a>
