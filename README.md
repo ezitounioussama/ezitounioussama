@@ -9,15 +9,15 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://wa.me/212623438624?text=Hello%21%20I%20saw%20your%20contact%20on%20your%20website%20and%20wanted%20to%20reach%20out.%20I%20need%20help%20with%20a%20web%20development%20project.%20Are%20you%20available%20to%20discuss%20further%3F"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png"/></a>
+  <a href="https://wa.me/212623438624?text=Hello%21%20I%20saw%20your%20contact%20on%20your%20website%20and%20wanted%20to%20reach%20out.%20I%20need%20help%20with%20a%20web%20development%20project.%20Are%20you%20available%20to%20discuss%20further%3F"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn.simpleicons.org/whatsapp/25D366"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:ezitounioussama@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://www.iconpacks.net/icons/2/free-gmail-logo-icon-2561-thumb.png"/></a>
+  <a href="mailto:ezitounioussama@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://cdn.simpleicons.org/gmail/EA4335"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://oussama-ezitouni.com" alt="My Portfolio" title="My Portfolio"><img width="44px" src="https://img.fortawesome.com/1ce05b4b/start-illustration.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/ezitounioussama"><img width="32px" alt="Dev.to" title="oussamaezitouni Dev.to" src="https://res.cloudinary.com/practicaldev/image/fetch/s--E8ak4Hr1--/c_limit,f_auto,fl_progressive,q_auto,w_32/https://dev-to.s3.us-east-2.amazonaws.com/favicon.ico"></a>
+  <a href="https://dev.to/ezitounioussama"><img width="32px" alt="Dev.to" title="oussamaezitouni Dev.to" src="https://cdn.simpleicons.org/devdotto/BEA2D1"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.npmjs.com/package/vite-image-react"><img width="32px" alt="npm" title="vite-image-react on npm" src="https://raw.githubusercontent.com/npm/logos/master/npm%20square/n-64.png"></a>
+  <a href="https://www.npmjs.com/package/vite-image-react"><img width="32px" alt="npm" title="vite-image-react on npm" src="https://cdn.simpleicons.org/npm/CB3837"></a>
 </p>
 
 <br/>
